@@ -1,0 +1,56 @@
+﻿
+clauses
+real_estate("Apartment","Kyiv","Goloseevsky","Goloseevskaya","1","6","9","46000","No info").
+real_estate("Apartment","Kyiv","Goloseevsky","Goloseevskaya","2","7","9","66000","No info").
+real_estate("Apartment","Kyiv","Goloseevsky","Demyevskaya","1","19","25","51000","No info").
+real_estate("Apartment","Kyiv","Borshchagovka","Academgorodok","1","8","8","32000","No info").
+real_estate("Apartment","Kyiv","Borshchagovka","Academgorodok","3","4","9","41500","No info").
+real_estate("Apartment","Kyiv","Darnitsky","Vyrlitsa","2","16","25","64000","No info").
+real_estate("Apartment","Kyiv","Darnitsky","Poznyaki","3","16","19","110000","No info").
+real_estate("Apartment","Kharkiv","Shevchenko","Nauchnaya","2","15","16","190000","No info").
+real_estate("Apartment","Kharkiv","Shevchenko","Nauchnaya","3","9","10","99000","No info").
+real_estate("Apartment","Kharkiv","Novobavarsky","Gagarin Avenue","1","2","4","18500","No info").
+real_estate("Apartment","Kharkiv","Novobavarsky","No subway","2","1","2","11500","No info").
+real_estate("Apartment","Kharkiv","Osnov'yansky","No subway","2","2","16","26000","No info").
+real_estate("Apartment","Kharkiv","Osnov'yansky","No subway","3","8","9","55000","No info").
+real_estate("Apartment","Odesa","Primorsky","No subway","1","3","7","28600","No info").
+real_estate("Apartment","Odesa","Primorsky","No subway","3","1","1","57000","No info").
+real_estate("Apartment","Odesa","Kyivskiy","No subway","1","1","4","69000","No info").
+real_estate("Apartment","Odesa","Kyivskiy","No subway","1","10","18","40500","No info").
+real_estate("Apartment","Odesa","Malinovsky","No subway","1","3","4","40500","No info").
+real_estate("House","Odesa","Primorsky","No subway","9","No info","2","185000","No info").
+real_estate("House","Odesa","Primorsky","No subway","9","1","1","159000","No info").
+real_estate("House","Odesa","Kyivskiy","No subway","9","No info","2","99999","No info").
+real_estate("House","Odesa","Kyivskiy","No subway","9","No info","2","87000","No info").
+real_estate("House","Odesa","Malinovsky","No subway","8","No info","2","90000","No info").
+real_estate("House","Odesa","Malinovsky","No subway","3","1","1","40000","No info").
+real_estate("House","Kharkiv","Shevchenko","No subway","2","1","1","22000","No info").
+real_estate("House","Kharkiv","Shevchenko","No subway","3","1","1","38000","No info").
+real_estate("House","Kharkiv","Novobavarsky","No subway","6","No info","2","84000","No info").
+real_estate("House","Kharkiv","Novobavarsky","No subway","8","No info","2","65000","No info").
+real_estate("House","Kharkiv","Osnov'yansky","No subway","5","No info","2","115000","No info").
+real_estate("House","Kharkiv","Osnov'yansky","No subway","3","No info","2","24000","No info").
+real_estate("House","Kyiv","Goloseevsky","No subway","6","No info","3","249000","No info").
+real_estate("House","Kyiv","Goloseevsky","No subway","5","No info","3","150000","No info").
+real_estate("House","Kyiv","Borshchagovka","No subway","4","No info","2","110000","No info").
+real_estate("House","Kyiv","Borshchagovka","No subway","4","No info","2","480000","No info").
+real_estate("House","Kyiv","Darnitsky","No subway","4","No info","2","80000","No info").
+real_estate("Plot of land","Kyiv","Goloseevsky","Vidubichi","No rooms","No info","No info","123999","1800").
+real_estate("Plot of land","Kyiv","Goloseevsky","Vidubichi","No rooms","No info","No info","150000","1800").
+real_estate("Plot of land","Kyiv","Goloseevsky","Demyevskaya","No rooms","No info","No info","199900","1000").
+real_estate("Plot of land","Kyiv","Borshchagovka","Academgorodok","No rooms","No info","No info","50000","1000").
+real_estate("Plot of land","Kyiv","Borshchagovka","Goloseevskaya","No rooms","No info","No info","170000","688").
+real_estate("Plot of land","Kyiv","Darnitsky","Slavytich","No rooms","No info","No info","40500","525").
+real_estate("Plot of land","Kyiv","Darnitsky","No subway","No rooms","No info","No info","35000","500").
+real_estate("Plot of land","Kharkiv","Shevchenko","No subway","No rooms","No info","No info","75000","2200").
+real_estate("Plot of land","Kharkiv","Shevchenko","No subway","No rooms","No info","No info","25000","600").
+real_estate("Plot of land","Kharkiv","Novobavarsky","No subway","No rooms","No info","No info","1900","600").
+real_estate("Plot of land","Kharkiv","Novobavarsky","No subway","No rooms","No info","No info","7000","800").
+real_estate("Plot of land","Kharkiv","Novobavarsky","No subway","No rooms","No info","No info","7500","900")
+real_estate("Plot of land","Kharkiv","Osnov'yansky","No subway","No rooms","No info","No info","90000","600").
+real_estate("Plot of land","Kharkiv","Osnov'yansky","No subway","No rooms","No info","No info","24000","1000").
+real_estate("Plot of land","Odesa","Primorsky","No subway","No rooms","No info","No info","150000","400").
+real_estate("Plot of land","Odesa","Primorsky","No subway","No rooms","No info","No info","250000","700").
+real_estate("Plot of land","Odesa","Kyivskiy","No subway","No rooms","No info","No info","105000","700").
+real_estate("Plot of land","Odesa","Kyivskiy","No subway","No rooms","No info","No info","750000","2500").
+real_estate("Plot of land","Odesa","Malinovsky","No subway","No rooms","No info","No info","135000","1000").
